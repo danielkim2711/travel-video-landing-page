@@ -10,3 +10,19 @@ html {
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
+
+/* Showcase */
+
+.showcase {
+  position: absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #111;
+  color: #fff;
+  z-index: 2;
+}
